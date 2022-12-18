@@ -4,7 +4,7 @@
 
 ### Howdy, glad you joined!👋
 
-I'm Constantine or K, a docs tinkerman & a silver-lining specialist with more than a decade of experience in planning, designing, developing, delivering and maintaining Documentation for a variety of audiences and purposes. 
+I'm Constantine/K, a docs tinkerman & a silver-lining specialist with more than a decade of experience in planning, designing, developing, delivering and maintaining Documentation for a variety of audiences and purposes. 
 
 My specialty is presenting complex ideas in ways that are clear and concise. My superpower is asking the right questions. 
 
