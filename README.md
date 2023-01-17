@@ -38,6 +38,11 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 [dSphere Docs](https://docs.dsphere.io/)
 
+[OCP Docs by Omilia](https://learn.ocp.ai/)
+
+[Omilia Docs content](https://github.com/docs-of-all-trades/omilia-docs) & [Omilia Docs UI](https://github.com/docs-of-all-trades/omilia-docs-ui) (upon request)
+
 [Apprenda Docs by Atos](https://docs.apprenda.com/)
 
+[Atos Unify Experts Wiki](https://wiki.unify.com/wiki/Overview)
 
