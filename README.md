@@ -32,3 +32,12 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :bulb:  Learn something new every day. 
 
+### Portfolio
+
+[
+](https://docs.wappier.com/)
+](https://docs.dsphere.io/)
+[
+](https://docs.apprenda.com/)
+
+
