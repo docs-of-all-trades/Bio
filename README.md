@@ -16,13 +16,13 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :hammer_and_pick:  Work in various content source formats to develop structured content that answers questions and solves business problems.
 
-:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track, and trigger documentation and content strategy tasks.
+:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track and trigger documentation and content strategy tasks.
 
 :sparkle:  Always strive to improve products and processes.
 
-:wave:  Use Slack and Discord to keep in touch and build relationships with colleagues, community members, and documentarians near and far.
+:wave:  Use Slack and Discord to keep in touch and build relationships with colleagues, community members and documentarians near and far.
 
-:pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
+:pushpin:  Manage knowledge, collaborate for the greater good and share ideas.  
 
 :earth_americas:  Work with smart people around the globe who innovate, collaborate and celebrate.
 
