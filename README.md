@@ -24,7 +24,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
-:earth_americas:  Work with smart people around the globe who innovate, collaborate, and celebrate.
+:earth_americas:  Work with smart people around the globe who innovate, collaborate and celebrate.
 
 ### In the simplest terms and most convenient definitions
 
