@@ -34,10 +34,10 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 ### Portfolio
 
-[
-](https://docs.wappier.com/)
-](https://docs.dsphere.io/)
-[
-](https://docs.apprenda.com/)
+[Wappier Docs](https://docs.wappier.com/)
+
+[dSphere Docs](https://docs.dsphere.io/)
+
+[Apprenda Docs by Atos](https://docs.apprenda.com/)
 
 
