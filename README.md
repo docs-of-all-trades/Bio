@@ -32,6 +32,23 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :bulb:  Learn something new every day. 
 
+
+A few core tools:
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue) ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red) ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)
+
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)
+
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
+
+
+### 📮 How to reach me
+
+<a href="https://twitter.com/docs-of-all-trades"><img src="https://img.shields.io/badge/-%40__incendial-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
+
 ### Portfolio
 
 [Wappier Docs](https://docs.wappier.com/)
