@@ -47,7 +47,7 @@ A few core tools:
 
 ### 📮 How to reach me
 
-<a href="https://twitter.com/docs-of-all-trades"><img src="https://img.shields.io/badge/-%40__incendial-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/docsofalltrades"><img src="https://img.shields.io/badge/-%40_docsofalltrades-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
 
 ### Portfolio
 
