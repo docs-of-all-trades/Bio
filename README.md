@@ -39,7 +39,7 @@ A few core tools:
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red) ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)
 
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+![Docusaurus](https://img.shields.io/badge/-docusaurus-green) ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 ![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)
 
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
