@@ -35,17 +35,19 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 A few core tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,bootstrap)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,gatsby,nextjs,nuxtjs,vue)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,gatsby,nextjs,nuxtjs,vue,astro)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,java,js,ts,ruby,py,r,)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,docker,md,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,gitlab,docker)](https://skills.thijs.gg)
 
+[![My Skills](https://skills.thijs.gg/icons?i=idea,atom,visualstudio,vscode)](https://skills.thijs.gg)
 
+[![My Skills](https://skills.thijs.gg/icons?i=netlify,vercel)](https://skills.thijs.gg)
 
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
+[![My Skills](https://skills.thijs.gg/icons?i=figma,xd)](https://skills.thijs.gg)
 
 
 ## 📮 How to reach me
