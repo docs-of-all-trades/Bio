@@ -2,7 +2,7 @@
 <img src="https://github.com/docs-of-all-trades/Bio/blob/main/kk.png" width="434" 
      height="386" align="right">
 
-### Howdy, glad you joined!👋
+### ##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Howdy, glad you joined!
 
 I'm Constantine/K, a docs tinkerman & a silver-lining specialist with more than a decade of experience in planning, designing, developing, delivering and maintaining Documentation for a variety of audiences and purposes. 
 
