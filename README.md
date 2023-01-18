@@ -8,7 +8,7 @@ I'm Constantine/K, a docs tinkerman & a silver-lining specialist with more than 
 
 My specialty is presenting complex ideas in ways that are clear and concise. My superpower is asking the right questions. 
 
-### In a nutshell
+## In a nutshell
 
 ⛓️ Create content to attract and onboard.
 
@@ -26,7 +26,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :earth_americas:  Work with smart people around the globe who innovate, collaborate and celebrate.
 
-### In the simplest terms and most convenient definitions
+## In the simplest terms and most convenient definitions
 
 :high_brightness: Intelligence. Positive vibes. Education. Respect.  Love._
 
@@ -45,11 +45,11 @@ A few core tools:
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
 
-### 📮 How to reach me
+## 📮 How to reach me
 
 <a href="https://twitter.com/docsofalltrades"><img src="https://img.shields.io/badge/-%40_docsofalltrades-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
 
-### Portfolio
+## Portfolio
 
 [Wappier Docs](https://docs.wappier.com/)
 
