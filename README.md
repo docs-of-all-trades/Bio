@@ -37,7 +37,7 @@ A few core tools:
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,nextjs,nuxtjs,vue)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,gatsby,nextjs,nuxtjs,vue)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,java,js,ts,ruby,py,r,)](https://skills.thijs.gg)
 
