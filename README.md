@@ -1,4 +1,9 @@
 
+.markdown-body {
+  font-family: 'Mackinac', Times, serif;
+}
+
+
 <img src="https://github.com/docs-of-all-trades/Bio/blob/main/kk.png" width="434" 
      height="386" align="right">
 
